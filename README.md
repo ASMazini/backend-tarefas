@@ -1,5 +1,3 @@
 Integrantes:
 
-Anderson da Silva Mazini
-Matheus Lopez
-Naiara Monteiro
+Anderson da Silva Mazini | Matheus Lopez | Naiara Monteiro
